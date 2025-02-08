@@ -1,0 +1,36 @@
+[
+    {
+        "id": "67a6a2e6284e4",
+        "title": "New",
+        "description": "new bill ",
+        "author": "member1",
+        "initial_draft": "hellooooo how are you?\r\n",
+        "created_at": "2025-02-08 00:18:46",
+        "status": "Approved",
+        "amendments": [
+            {
+                "comment": "please",
+                "suggested_changes": "Need to chasdadsa",
+                "timestamp": "2025-02-08 03:22:58"
+            }
+        ]
+    },
+    {
+        "id": "67a6a31e004b7",
+        "title": "New1",
+        "description": "helooo",
+        "author": "member1",
+        "initial_draft": "how are you?\r\n",
+        "created_at": "2025-02-08 00:19:42",
+        "status": "Declined"
+    },
+    {
+        "id": "67a78ca6d5bf3",
+        "title": "Hello",
+        "description": "How are you?",
+        "author": "member1",
+        "initial_draft": "Im good",
+        "created_at": "2025-02-08 16:56:06",
+        "status": "In Progress"
+    }
+]
